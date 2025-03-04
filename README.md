@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/d7cbdf9d-76db-4dec-8105-514e714eb516
+
 ==> HTML:
 The HTML file provides the structure of the app, including an input field to enter the city name and a button to trigger the search. The results will be displayed in the weather-info section.
 ==> CSS:
